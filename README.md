@@ -30,7 +30,7 @@ ___
 let input = 0;
 (input += String(input += 1)) % 6;
 ```
-[image:]https://github.com/devendrk/adddition-assignment-str-num/blob/master/WIN_20180809_15_54_03_Pro.jpg
+[image:](https://github.com/devendrk/adddition-assignment-str-num/blob/master/WIN_20180809_15_54_03_Pro.jpg)
 
 [Repl.it](https://repl.it/@Joaoviana/Binary-Operators)
 
